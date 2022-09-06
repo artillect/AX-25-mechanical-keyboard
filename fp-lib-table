@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Alps_Only")(type "KiCad")(uri "C:/Users/oreo4/Desktop/typewriter keyboard/MX_Alps_Hybrid-master/Alps_Only.pretty")(options "")(descr ""))
+  (lib (name "Module")(type "KiCad")(uri "C:/Users/oreo4/Desktop/typewriter keyboard/Module.pretty")(options "")(descr ""))
+)
