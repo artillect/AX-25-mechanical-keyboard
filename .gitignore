@@ -6,3 +6,9 @@ sym-lib-table
 *.pdf
 *.png
 *.svg
+*.gbr
+*.zip
+*.gbrjob
+*.bin
+*.dsn
+*.ses
