@@ -1,11 +1,13 @@
 "/typewriter keyboard-backups"
-\#*
 fp-*
 sym-lib-table
 *.kicad_prl
 *.pdf
 *.png
 *.svg
+\#auto_saved_files\#
+fp-info-cache
+fp-lib-table
 *.gbr
 *.zip
 *.gbrjob
