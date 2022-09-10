@@ -2,8 +2,6 @@
 fp-*
 sym-lib-table
 *.kicad_prl
-*.png
-*.svg
 \#auto_saved_files\#
 fp-info-cache
 fp-lib-table
